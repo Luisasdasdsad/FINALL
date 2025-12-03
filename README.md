@@ -39,27 +39,5 @@ El proyecto sigue una arquitectura modular en C#:
 * `SpecterAI.cs`: Máquina de estados simple para el enemigo (Patrulla -> Persecución) usando NavMeshAgent.
 * `PlayerInteraction.cs` & `Interactable.cs`: Sistema flexible basado en Enums para definir tipos de interacción (Nota, Batería, Puerta).
 
-## 📥 Instalación y Ejecución
 
-### Opción A: Jugar la Build (Recomendado)
-1.  Ve a la sección de **Releases** (a la derecha en este repositorio).
-2.  Descarga el archivo `.zip` de la última versión.
-3.  Descomprime y ejecuta `MansionEspectral.exe`.
 
-### Opción B: Abrir el Proyecto en Unity
-1.  Clona este repositorio:
-    ```bash
-    git clone [https://github.com/TU_USUARIO/FINALL.git](https://github.com/TU_USUARIO/FINALL.git)
-    ```
-2.  Abre **Unity Hub** y añade la carpeta del proyecto.
-3.  Asegúrate de usar una versión compatible con **Unity 2022 (URP)**.
-4.  Abre la escena `MenuPrincipal` en la carpeta `Assets/Scenes`.
-
-## 🎨 Créditos y Assets
-* **Desarrollo y Programación:** [Tu Nombre Completo]
-* **Arte de Entorno:** Concrete Props Pack / Abandoned Asylum (Unity Asset Store).
-* **Audio:** Sonidos ambientales y SFX libres de derechos.
-* **Shaders:** Shader de Ectoplasma personalizado (Shader Graph/Material settings).
-
----
-*Este proyecto fue desarrollado para el curso de Desarrollo de Videojuegos - [Año/Semestre].*
