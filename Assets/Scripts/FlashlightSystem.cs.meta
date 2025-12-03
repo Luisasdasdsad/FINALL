@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 79de8274bb9291f4ea81b3e6ace7dddd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - flashlightSource: {instanceID: 0}
+  - fuenteAudio: {instanceID: 0}
+  - sonidoClick: {fileID: 8300000, guid: 625cb31d3c6b06845aaa38be2d8296db, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
